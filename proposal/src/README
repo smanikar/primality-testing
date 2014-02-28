@@ -1,0 +1,11 @@
+Folder contains 3 program files:
+1) PrimeTest.java----> main func
+2) MillerRabin.java-----> miller rabin deterministic
+3) AKS.java -----> AKS
+
+
+
+to complie:
+           javac *.java
+to execute:
+           java PrimeTest < inputfilename
